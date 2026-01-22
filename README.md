@@ -14,4 +14,7 @@ I am currently adding notes from my daily studies.
 I have divided my notes into different sections to make it easy to read.
 
 ### 1. Introduction to Linux
-- [ ] File System Hierarchy
+* [x] **[Linux Filesystem Hierarchy](01-introduction-to-linux/file-sys-hierarchy/README.md)**
+  *Summary:* Explaining `/bin`, `/etc`, `/home`, and other core directories.
+* [x] **[Customizing the PS1 Prompt](02-shell/custom-shell-prompt/README.md)**
+  *Summary:* How to change the terminal look using `.bashrc` and special characters like `\u` and `\w`.
