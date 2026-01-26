@@ -19,4 +19,4 @@ I have divided my notes into different sections to make it easy to read.
 * [x] **[Customizing the PS1 Prompt](02-shell/custom-shell-prompt/README.md)**
   *Summary:* How to change the terminal look using `.bashrc` and special characters like `\u` and `\w`.
  * [x] **[Linux Essential Commands](03-commands/README.md)**
-  *Summary:* Basic commands like `ls`  `cd` etc..
+  *Summary:* Basic commands like `ls`  `cd` etc.
