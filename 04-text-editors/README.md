@@ -16,7 +16,7 @@ d2w  delete  and move other word like 2 times
 dd delete whole line can be combined like 2dd deletes 2 whole lines
 u for undo U for fix whole line if u hit second time u redos
 ctrl+r redos undo the undos
-continue with lesson 3.1 on vim tutorial
+continue with lesson 3.1 on vim tutorial.
 
 
 Movement:
