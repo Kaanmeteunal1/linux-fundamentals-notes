@@ -1,0 +1,10 @@
+| 2>/dev/null                                           | 2 means STDERR > means send to /dev/null is file path l'ke trash 1 means STDOUT and 0 is STDIN                               |
+| :---------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------- |
+| >                                                     | left to right data send                                                                                                      |
+| <                                                     | right to left data send                                                                                                      |
+| >>                                                    | double > means dont overwrite it just append end of file                                                                     |
+| << WORD                                               | input anything till that word if it contains that word input will stop and executed by left side code                        |
+| grep                                                  | filtering STDOUT to displaying filtered result.                                                                              |
+| \|                                                    | do left side than use it on right side pipe thing that contact each command with order and the result will be about last mix |
+| dpkg -l \| grep "^ii" \| wc -l                        | dpkg -l list for packages grep ii means succesfully installed things so list installed packages                              |
+| apt list --installed \| grep -v "Listing..." \| wc -l |                                                                                                                              |
