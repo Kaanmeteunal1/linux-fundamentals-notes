@@ -14,9 +14,9 @@ I am currently adding notes from my daily studies.
 I have divided my notes into different sections to make it easy to read.
 
 ### 1. Introduction to Linux
-* [x] **[Linux Filesystem Hierarchy](01-introduction-to-linux/file-sys-hierarchy/README.md)**
+* [x] **[Linux Filesystem Hierarchy](Linux-Fundamentals/01-file-system-hierarchy/README.md)**
   *Summary:* Explaining `/bin`, `/etc`, `/home`, and other core directories.
-* [x] **[Customizing the PS1 Prompt](02-shell/custom-shell-prompt/README.md)**
+* [x] **[Customizing the PS1 Prompt](Linux-Fundamentals/02-shell/README.md)**
   *Summary:* How to change the terminal look using `.bashrc` and special characters like `\u` and `\w`.
- * [x] **[Linux Essential Commands](03-commands/README.md)**
+ * [x] **[Linux Essential Commands](Linux-Fundamentals/03-commands/README.md)**
   *Summary:* Basic commands like `ls`  `cd` etc.
