@@ -2,7 +2,7 @@
 
 Welcome to my Hack The Box Fundamentals study repository!
 
-I created this project to keep track of my progress while learning pentest. My goal is to understand the operating system better for my future career in Cyber Security.
+I created this project to keep track of my progress while learning devops and pentest. My goal is to understand the operating system better for my future career in DevOps and Cyber Security.
 
 I will update this repository as I complete new modules and learn new commands.
 
