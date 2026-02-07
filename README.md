@@ -1,6 +1,6 @@
-# 🐧 Hack The Box Pentester Path
+# 🐧 Hack The Box Fundamentals for DevOps and Cybersecurity
 
-Welcome to my Hack The Box Pentester Path study repository!
+Welcome to my Hack The Box Fundamentals study repository!
 
 I created this project to keep track of my progress while learning pentest. My goal is to understand the operating system better for my future career in Cyber Security.
 
